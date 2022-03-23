@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1858
     height: 1037
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 120
+  controlID: 79
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -405,9 +405,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 21.577726, y: 11.834062, z: 6.192207}
+    m_Target: {x: 54.716, y: 6.083, z: 16.874}
     speed: 2
-    m_Value: {x: 21.577726, y: 11.834063, z: 6.1922073}
+    m_Value: {x: 54.715996, y: 6.0830007, z: 16.874}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -456,11 +456,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.20399755, y: 0.78787345, z: -0.34227833, w: -0.46969512}
     speed: 2
-    m_Value: {x: -0.20379135, y: 0.7876299, z: -0.34076902, w: -0.47115254}
+    m_Value: {x: -0.20398454, y: 0.7878232, z: -0.34225652, w: -0.46966517}
   m_Size:
-    m_Target: 1.410138
+    m_Target: 3.5157204
     speed: 2
-    m_Value: 1.410138
+    m_Value: 3.3643258
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -650,7 +650,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d24b0000
     m_LastClickedID: 19410
-    m_ExpandedIDs: 00000000da430000dc430000de430000
+    m_ExpandedIDs: 00000000de430000e0430000e2430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -678,7 +678,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000da430000dc430000de430000
+    m_ExpandedIDs: ffffffff00000000de430000e0430000e2430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -762,23 +762,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 98400000
-      m_LastClickedID: 16536
-      m_ExpandedIDs: 5afbffffac400000
+      m_SelectedIDs: d0400000
+      m_LastClickedID: 16592
+      m_ExpandedIDs: 5afbffffae400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Capsule (2)
-        m_OriginalName: Capsule (2)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 16588
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 2}
       m_SearchString: 
